@@ -1,73 +1,53 @@
-# LECCIONES PRESENCIALES DE FRANCÉS
+# BIENVENUE :)
+Te compartimos la información de las **clases particulares de francés online** *nivel principiante e intermedio*. 
+Puedes optar por un curso individual o grupal, con fines personales, turísticos, académicos o profesionales.
 
-**Bienvenue !** Te compartimos la información sobre las clases particulares presenciales de Francés para *niveles A1, A2, B1, B2* en Talca.
-Puedes optar por un curso de duración variable o intensivo, *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
+## _**Lección interactiva con tutoría personalizada**_
 
-# Método participativo con tutoría personalizada
+- La comodidad de tu lugar te permitirá aprender a tu ritmo y en las mejores condiciones.   
+- Un curso diseñado exclusivamente para ti, según tus objetivos, conocimientos e intereses. 
+- Tú eliges el horario y la duración del curso. 
 
-La cercanía de una clase particular te permitirá *aprender a tu ritmo* y en las mejores condiciones. Contamos con modalidades para individuos y grupos.
+### Metodología
 
-#### Individual
+**Método léxico-gramatical moderno**
+Sistema de aprendizaje que contempla 4 componentes principales: *hablar, escuchar, leer y escribir*.
+Los contenidos se introducen a través de ejercicios prácticos y actividades de comprensión, utilizando material digital.
 
-|Horas|Valor|
-|---|---|
-|1 | $15.000 |
-|5 | $50.000  |
-|10 | $100.000 |
+### Modalidad
+* El curso considera 8 sesiones de 1 hora con dos clases semanales.
+* Cada lección se acompaña con un ejercicio para realizar en casa.
+* Todas las sesiones se refuerzan con material complementario vía correo electrónico.
+* El programa de los contenidos dependerá del progreso de cada persona.
 
-#### Grupal
 
-**Dúo (valores incluyen 2 personas)**
+### Horarios
+Las sesiones consideran flexibilidad en los días y horarios de las clases y cada alumna-o podrá hacer uso de sus horas cuando exista disponibilidad. Se puede establecer un programa invariable de fechas y horas, o se puede optar por un programa adaptable. El horario disponible para realizar las sesiones es de lunes a jueves de 09:00 a 21:00 horas (CLT), UTC -4.
 
-| Horas | Valor |
-| ------ | ------ |
-| 1 | $20.000 |
-| 5 | $70.000 |
-| 10 | $140.000 |
+_**horario fijo:**_
+Para quienes disponen de poca adaptabilidad o prefieren organizarse con anticipación, elaboramos un programa con días y horas establecidos.
 
-**Trío (valores incluyen 3 personas)**
+_**horario flexible:**_
+Para aquellos con tiempos más libres, programamos las sesiones cuando se requieran, procurando un aviso con al menos 6 horas de antelación.
 
-| Horas | Valor |
-| ------ | ------ |
-| 1 | $15.000 |
-| 5 | $60.000 |
-| 10 | $120.000 |
+### Forma de pago
+Se debe realizar el pago por el total de las clases a realizar, a través de un link de pago que se entregará antes de iniciar las sesiones. El uso de este servicio web considera un monto extra que se agregará al momento de realizar la transferencia. 
 
-#### Grupos +3 personas
+_**valor individual:**_
+1 hora | $15.000 pesos chilenos 
+8 horas | $100.000 pesos chilenos
 
-  Por favor escríbenos para encontrar la mejor opción.
+##### Consideraciones
+1. El valor incluye material digital de estudio personal y de trabajo para las sesiones. 
+1. Una vez confirmado el pago, se enviará un correo con todo el detalle para iniciar las lecciones.
+1. Las sesiones se realizan vía Zoom y se recomienda estar en la sala 10 minutos antes para comprobar aspectos técnicos de la reunión (conexión a internet, audio y micrófono).
+1. Las clases no se graban, sí se permite que cada alumna-o pueda grabar sus sesiones por sus propios medios.
+1. Para cancelar una sesión se requiere un aviso de 24 horas de antelación, de lo contrario se considera realizada; exceptuando situaciones imprevistas o emergencias.
+1. Las tarifas son las mismas para todos los niveles.
 
-## Metodología
+##### Sobre la tutora
 
-- Las sesiones consideran como mínimo una hora de clase semanal.
-- El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
-- Durante todas las sesiones se trabaja lectura, escritura y pronunciación.
-- Todas las sesiones se refuerzan con material complementario vía correo electrónico.
+Marcela Valdés, arquitecta, fotógrafa y creadora de [Latelier du français](https://web.facebook.com/latelierdufrancais) vive y trabaja en Chile incentivando el aprendizaje del idioma francés, realiza clases de francés a hispanohablantes desde hace 4 años. Puedes revisar las experiencias de algunas-os de sus alumnas-os en este [sitio web](https://www.tusclasesparticulares.cl/area-profesores/trackingreviews.aspx?type=accepted) y en esta [red social](https://www.instagram.com/latelierdufrancais). 
 
-## Horarios
-
-**Horario fijo:**
-Para quienes prefieren organizarse con anticipación, elaboramos un programa con *días y horarios establecidos.*
-
-**Horario libre:**
-Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
-
-## Forma de pago
-
-Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
-
-    Nombre: Marcela Valdés Rojas
-
-    Rut: 16.732.177-1
-
-    Tipo de cuenta: Cuenta Rut Banco Estado N° 16732177
-
-    Correo electrónico: bonjour@latelierdufrancais.cl
-
-## Consideraciones
-
-- Las tarifas son las mismas para todos los niveles.
-- Los valores incluyen material de estudio impreso y digital.
-- Recordar que una aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
-- El horario disponible para las clases es de Lunes a Viernes de 09:00 a 20:00 h.
-- La ubicación del lugar se entrega directamente a las personas interesadas.
+ bonjour@latelierdufrancias.cl
+ +569-82873103
