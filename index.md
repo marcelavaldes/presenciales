@@ -37,7 +37,7 @@ _**valor individual:**_
 1 hora | $15.000 pesos chilenos 
 8 horas | $100.000 pesos chilenos
 
-##### Consideraciones
+#### Consideraciones
 1. El valor incluye material digital de estudio personal y de trabajo para las sesiones. 
 1. Una vez confirmado el pago, se enviará un correo con todo el detalle para iniciar las lecciones.
 1. Las sesiones se realizan vía Zoom y se recomienda estar en la sala 10 minutos antes para comprobar aspectos técnicos de la reunión (conexión a internet, audio y micrófono).
@@ -45,7 +45,7 @@ _**valor individual:**_
 1. Para cancelar una sesión se requiere un aviso de 24 horas de antelación, de lo contrario se considera realizada; exceptuando situaciones imprevistas o emergencias.
 1. Las tarifas son las mismas para todos los niveles.
 
-##### Sobre la tutora
+#### Sobre la tutora
 
 Marcela Valdés, arquitecta, fotógrafa y creadora de [Latelier du français](https://web.facebook.com/latelierdufrancais) vive y trabaja en Chile incentivando el aprendizaje del idioma francés, realiza clases de francés a hispanohablantes desde hace 4 años. Puedes revisar las experiencias de algunas-os de sus alumnas-os en este [sitio web](https://www.tusclasesparticulares.cl/area-profesores/trackingreviews.aspx?type=accepted) y en esta [red social](https://www.instagram.com/latelierdufrancais). 
 
